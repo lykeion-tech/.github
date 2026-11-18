@@ -19,7 +19,7 @@
   <a href="https://github.com/lykeion-tech/lykeion">GitHub</a>
 </p>
 
-[![A Lykeion lab board with studies moving through Grounding, Hypotheses, Experimentation and Validation](https://raw.githubusercontent.com/lykeion-tech/lykeion/main/apps/web/public/lab-board.webp)](https://github.com/lykeion-tech/lykeion)
+[![The Lykeion Studies board showing demo studies](https://raw.githubusercontent.com/lykeion-tech/lykeion/main/apps/web/public/demo-photos/01-board.webp)](https://github.com/lykeion-tech/lykeion)
 
 <p align="center">
   Set the direction, assemble your lab, and follow the evidence from question to result.
